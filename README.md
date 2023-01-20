@@ -1,6 +1,11 @@
 # webnoti-linenoti-emailnoti
 
-bash
+
 ```
+npm install
+```
+and
+```
+cd web
 npm install
 ```
