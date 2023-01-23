@@ -1,5 +1,5 @@
 var details = {
-  'message':'hellooo from mcky',
+  'message':'hellooo from punn',
   'stickerPackageId': '446',
   'stickerId': '1988',
 }
@@ -18,7 +18,7 @@ fetch('https://notify-api.line.me/api/notify', {
 method: 'POST',
 headers: {
   'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-  'Authorization': 'Bearer mp9OqAcaQJQUVayv1oLfOx4uVPEFemUyWFUyUWQBHpL'
+  'Authorization': 'Bearer fYMXEGmzxTcAM9ZEV2YnlZjHpu1gfI8Trt2afE0DrSe'
 },
 body: formBody
 }).then((res) => { 
