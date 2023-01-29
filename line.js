@@ -18,7 +18,7 @@ fetch('https://notify-api.line.me/api/notify', {
 method: 'POST',
 headers: {
   'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-  'Authorization': 'Bearer fYMXEGmzxTcAM9ZEV2YnlZjHpu1gfI8Trt2afE0DrSe'
+  'Authorization': 'Bearer '
 },
 body: formBody
 }).then((res) => { 
